@@ -1,4 +1,5 @@
 # isaac-asimov-tribute
-## A tribute page for author and professor Isaac Asimov listing a chronological bibliography of his literary works. Written in HTML and CSS3.
-
-### View the site here: https://codepen.io/vargasd/full/LamdLv
+## Created By: Dennis Vargas
+### A tribute page for author and professor Isaac Asimov; written in HTML and CSS3.
+### Visitors to the site will find a quote and picture of Asimov and a bibliography sorted by year.
+#### Demonstration: https://codepen.io/vargasd/full/LamdLv
