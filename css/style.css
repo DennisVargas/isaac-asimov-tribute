@@ -16,10 +16,13 @@ li {
 li {
   list-style-type: none;
 }
+/* base styles */
+body {
+  background: var(--secondary);
+  overflow-x: hidden;
+}
 
 /* fonts */
-
-/* base styles */
 
 /* mobile styles */
 
