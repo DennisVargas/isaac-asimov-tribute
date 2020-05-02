@@ -1,8 +1,12 @@
 /* variables */
 :root {
   --primary: #561140;
-  --secondary: #f0bc50;
+  --secondary: #d17a22;
+  --light: #f2d492;
+  --dark: #363537;
+  --highlight: #729ea1;
 }
+
 /* reset */
 body,
 p,
@@ -13,13 +17,24 @@ li {
   padding: 0;
   text-decoration: none;
 }
+
 li {
   list-style-type: none;
 }
 
-/* fonts */
-
 /* base styles */
+body {
+  background: var(--primary);
+  overflow-x: hidden;
+  color: var(--light);
+  font-family: "Rubik Regular";
+}
+
+/* fonts */
+@font-face {
+  font-family: "Rubik Regular";
+  src: url(../assets/fonts/roboto/Roboto-Regular.ttf);
+}
 
 /* mobile styles */
 
