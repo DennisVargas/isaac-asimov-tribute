@@ -17,16 +17,24 @@ li {
   padding: 0;
   text-decoration: none;
 }
+
 li {
   list-style-type: none;
 }
+
 /* base styles */
 body {
-  background: var(--secondary);
+  background: var(--primary);
   overflow-x: hidden;
+  color: var(--light);
+  font-family: "Rubik Regular";
 }
 
 /* fonts */
+@font-face {
+  font-family: "Rubik Regular";
+  src: url(../assets/fonts/roboto/Roboto-Regular.ttf);
+}
 
 /* mobile styles */
 
