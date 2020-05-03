@@ -12,7 +12,9 @@ body,
 p,
 a,
 ul,
-li {
+li,
+h1,
+figure {
   margin: 0;
   padding: 0;
   text-decoration: none;
@@ -26,7 +28,6 @@ li {
 body {
   background: var(--primary);
   overflow-x: hidden;
-  color: var(--light);
   font-family: "Rubik Regular";
 }
 
