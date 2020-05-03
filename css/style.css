@@ -38,6 +38,39 @@ body {
 }
 
 /* mobile styles */
+.welcome {
+  text-align: center;
+  height: 100vh;
+  /* background: var(--dark); */
+  /* margin-bottom: 10px; */
+}
+.welcome header {
+  height: 30%;
+  background: var(-);
+  border: solid var(--light);
+  font-size: 1.8em;
+}
+.main-title {
+  color: var(--light);
+  padding: 0.15em 0;
+}
+.main-title small {
+  font-size: 0.38em;
+  color: var(--highlight);
+}
+.welcome figure {
+  height: 68%;
+  width: auto;
+  background-color: var(--dark);
+  text-align: center;
+  border: solid var(--secondary);
+  /* padding: 10px 0px; */
+}
+.welcome figure a img {
+  height: 80%;
+  width: auto;
+  padding: 13% 0;
+}
 
 /* tablet styles */
 @media screen and (min-width: 620px) {
