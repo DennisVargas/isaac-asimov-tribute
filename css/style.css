@@ -63,39 +63,54 @@ figcaption a {
 
 /* mobile styles */
 .welcome {
-  text-align: center;
   height: 100vh;
-  /* background: var(--dark); */
-  /* margin-bottom: 10px; */
+  min-height: 568px;
 }
-.welcome header {
-  height: 30%;
-  background: var(-);
-  border: solid var(--light);
-  font-size: 1.8em;
+.welcome [class*="container-"] {
+  position: relative;
 }
-.main-title {
-  color: var(--light);
-  padding: 0.15em 0;
+.welcome .container-text {
+  height: 96%;
+  top: 2%;
+  left: 1%;
+  width: 98%;
 }
-.main-title small {
-  font-size: 0.38em;
-  color: var(--highlight);
+.welcome .container-img {
+  /* may not need this  */
+  height: 98%;
+  top: 1%;
+  width: 98%;
+  left: 1%;
 }
-.welcome figure {
-  height: 68%;
-  width: auto;
-  background-color: var(--dark);
+.welcome [class*="centered-content-"] {
+  /* goes inside container */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
   text-align: center;
-  border: solid var(--secondary);
-  /* padding: 10px 0px; */
 }
-.welcome figure a img {
-  height: 80%;
-  width: auto;
-  padding: 13% 0;
+.welcome .centered-content-text {
+  left: 5%;
+  right: 5%;
 }
-
+.welcome .centered-content-img {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  transform: translateY(-45%);
+}
+.welcome .centered-content-img .content {
+  height: 90%;
+  width: max-content;
+  margin: auto;
+}
+.welcome .centered-content-img img {
+  height: 95%;
+}
+.welcome .centered-content-img figcaption {
+  height: 5%;
+  margin: -4px auto 0px auto;
+}
 /* tablet styles */
 @media screen and (min-width: 620px) {
 }
