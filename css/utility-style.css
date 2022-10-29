@@ -47,6 +47,12 @@
 .top-50 {
   top: 50%;
 }
+.pt-05{
+  padding-top: .5em;
+}
+.pb-05{
+  padding-bottom: .5em;
+}
 .bg-primary {
   background-color: var(--primary);
 }
