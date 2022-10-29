@@ -66,10 +66,16 @@ figcaption a {
 }
 
 /* mobile styles */
-.welcome {
+article{
   height: 100vh;
   min-height: 568px;
 }
+
+/* .welcome {
+  height: 100vh;
+  min-height: 568px;
+} */
+
 .welcome [class*="container-"] {
   position: relative;
 }
@@ -115,6 +121,7 @@ figcaption a {
   height: 5%;
   margin: -4px auto 0px auto;
 }
+
 /* tablet styles */
 @media screen and (min-width: 620px) {
 }
