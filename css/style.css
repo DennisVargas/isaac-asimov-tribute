@@ -1,97 +1,137 @@
-html,body{
-    font-family:"Trebuchet MS", Helvetica, sans-serif;
-    text-align:center;
-    min-width:260px;
-    color:#222;
-}
-ul{
-    margin:0 auto;
-    text-align: left;
-    padding-left: 25px;
+/* variables */
+:root {
+  --primary: #561140;
+  --secondary: #d17a22;
+  --light: #f2d492;
+  --dark: #363537;
+  --highlight: #729ea1;
 }
 
-li{
-    font-size: 20px;
-}
-header{
-    background: #eee;
-    max-width: 975px;
-    margin: 0px auto;
-    padding-bottom: 8px;
-}
-.grid-container{
-    /* background:pink; */
-    display:grid;
-    grid-template-columns: 250px 1fr;
-    grid-template-rows: 1fr 1fr;
-    grid-row-gap: 15px;
-
-}
-.year {
-    /* background:black; */
-    font-size: 3em;
-    text-align: middle;
-    /* padding-right: 2em; */
+/* reset */
+body,
+p,
+a,
+ul,
+li,
+h1,
+h2,
+figure {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
 }
 
-/* .year-books{
-     background: yellow; 
-} */
-
-#main{
-    margin: 30px auto;
-    padding:15px;
-    border:0px solid;
-    border-radius:5px;
-    background:#eee;
-}
-#img-div{
-    /* height: auto; */
-    border: solid white;
-    background: #fff;
-    margin: 0 auto;
-    
-    /* max-width: 1050px; */
-    /* padding: auto; */
-}
-#title{
-    text-align: center;
-}
-#image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
+li {
+  list-style-type: none;
 }
 
-#img-caption{
-    font-size: 12px;
-    text-align: center;
+/* base styles */
+body {
+  background: var(--primary);
+  overflow-x: hidden;
+  font-family: "Roboto-Regular";
 }
 
-#quote1-body {
-    text-align: center;
-    max-width: 960px;
-    margin: auto;
+/* fonts */
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url(../assets/fonts/roboto/Roboto-Regular.ttf);
+}
+body {
+  font-size: 16px;
+}
+figcaption {
+  font-size: 0.6em;
+}
+figcaption a {
+  color: var(--highlight);
+}
+.title {
+  font-size: 2.4rem;
+}
+.pre-title {
+  font-size: 1.25rem;
+  line-height: 1.25em;
+}
+.sub-title {
+  font-size: 1.10rem;
+  line-height: 1.25em;
+}
+.quote {
+  font-size: 0.8rem;
+  line-height: 1.9em;
+}
+.quote-attrib {
+  font-size: 1.2rem;
 }
 
-#tribute-info{
-    /* padding: 20px; */
-    /* max-width:650px; */
-    padding: 8px 0px;
-    max-width: 975px;
-    margin: 0px auto;
-    background: #eee;
+/* mobile styles */
+article{
+  height: 100vh;
+  min-height: 568px;
 }
-#tribute-header{
-    font-size: 2.5em;
+
+article [class*="container-"] {
+  position: relative;
 }
-#second-tribute-header{
-    font-size:  .60em;
+article .container-text {
+  height: 96%;
+  top: 2%;
+  left: 1%;
+  width: 98%;
 }
-#bibliography{
-    margin: 0px auto;
-    max-width: 860px;
-    border: solid white;
+article .container-img {
+  /* may not need this  */
+  height: 98%;
+  top: 1%;
+  width: 98%;
+  left: 1%;
+}
+
+article [class*="centered-content-"] {
+  /* goes inside container */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+article .centered-content-text {
+  left: 5%;
+  right: 5%;
+}
+
+article .centered-content-img {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  transform: translateY(-45%);
+}
+article .centered-content-img .content {
+  height: 90%;
+  width: max-content;
+  margin: auto;
+}
+article .centered-content-img img {
+  height: 95%;
+}
+article .centered-content-img figcaption {
+  height: 5%;
+  margin: -4px auto 0px auto;
+}
+
+#section-divide{
+  height: 50px;
+  /* width: 100px; */
+}
+/* tablet styles */
+@media screen and (min-width: 620px) {
+}
+
+/* laptop styles */
+@media screen and (min-width: 960px) {
+}
+
+/* desktop styles */
+@media screen and (min-width: 1200px) {
 }

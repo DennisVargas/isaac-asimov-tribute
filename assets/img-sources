@@ -1,0 +1,154 @@
+"article is in reference to the wikipedia article url. This is not applicable to all images."
+blind-alley.jpg =>
+  page-src: https://www.goodreads.com/book/show/24545995-blind-alley
+  img-src: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535242419l/24545995._SY475_.jpg
+  article-src: https://en.wikipedia.org/wiki/Blind_Alley
+  collection-src: https://en.wikipedia.org/wiki/The_Early_Asimov
+
+forward-the-foundation.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:Forward_the_Foundation_cover.jpg#/media/File:Forward_the_Foundation_cover.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/9/93/Forward_the_Foundation_cover.jpg
+  article-src: https://en.wikipedia.org/wiki/Forward_the_Foundation
+
+foundation.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:Foundation_gnome.jpg#/media/File:Foundation_gnome.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/2/25/Foundation_gnome.jpg
+  article-src: https://en.wikipedia.org/wiki/Foundation_(Asimov_novel)
+
+foundation-and-chaos.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:FoundationandChaos.jpg#/media/File:FoundationandChaos.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/4/40/FoundationandChaos.jpg
+  article-src: https://en.wikipedia.org/wiki/Foundation_and_Chaos
+
+foundation-and-earth.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:Foundation_and_Earth_(book_cover).jpg#/media/File:Foundation_and_Earth_(book_cover).jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/e/eb/Foundation_and_Earth_%28book_cover%29.jpg
+  article-src: https://en.wikipedia.org/wiki/Foundation_and_Earth
+
+foundation-and-empire.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:Foundation_and_empire.jpg#/media/File:Foundation_and_empire.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/c/c2/Foundation_and_empire.jpg
+  article-src: https://en.wikipedia.org/wiki/Foundation_and_Empire
+
+foundations-fear.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:FoundationsFear.jpg#/media/File:FoundationsFear.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/6/66/FoundationsFear.jpg
+  article-src: https://en.wikipedia.org/wiki/Foundation%27s_Fear
+
+foundations-edge.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:IsaacAsimov_Foundation%27sEdge.jpg#/media/File:IsaacAsimov_Foundation'sEdge.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/c/cb/IsaacAsimov_Foundation%27sEdge.jpg
+  article-src: https://en.wikipedia.org/wiki/Foundation%27s_Edge
+
+foundations-triumph.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:FoundationsTriumph.jpg#/media/File:FoundationsTriumph.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/1/13/FoundationsTriumph.jpg
+  article-src: https://en.wikipedia.org/wiki/Foundation%27s_Triumph
+
+i-robot.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:I_robot.jpg#/media/File:I_robot.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/d/d5/I_robot.jpg
+  article: https://en.wikipedia.org/wiki/I,_Robot
+
+isaac-asimov-man-among-robots-by-roberlan.jpg =>
+  page src: http://fav.me/d8cp5ag
+  img src: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a1083084-19e8-4f2d-ad57-2c5ae52a57c3/d8cp5ag-1e718c7b-3503-47ce-a1df-2bf16cde68df.jpg/v1/fill/w_800,h_800,q_75,strp/isaac_asimov_man_among_robots_by_roberlan_d8cp5ag-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD04MDAiLCJwYXRoIjoiXC9mXC9hMTA4MzA4NC0xOWU4LTRmMmQtYWQ1Ny0yYzVhZTUyYTU3YzNcL2Q4Y3A1YWctMWU3MThjN2ItMzUwMy00N2NlLWExZGYtMmJmMTZjZGU2OGRmLmpwZyIsIndpZHRoIjoiPD04MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Z5OyTR9CbHgyp5maop0klbb38rOkossCJPA32XQRiHk
+  artist profile: https://www.deviantart.com/roberlan
+
+mirror-image.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:RobotVisions.jpg#/media/File:RobotVisions.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/8/8e/RobotVisions.jpg
+  article: https://en.wikipedia.org/wiki/Mirror_Image_(short_story)
+
+mother-earth.jpg => 
+  page src: https://www.collectorshowcase.fr/dessins_int%C3%A9rieurs_page_9.htm
+  img src: https://www.collectorshowcase.fr/images2/intast_4905.jpg
+  article: https://en.wikipedia.org/wiki/Mother_Earth_(novelette)
+  collection-src: https://en.wikipedia.org/wiki/The_Early_Asimov
+
+pebble-in-the-sky.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:PebbleInTheSky(1stEd).jpg#/media/File:PebbleInTheSky(1stEd).jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/a/ae/PebbleInTheSky%281stEd%29.jpg
+  article-src: https://en.wikipedia.org/wiki/Pebble_in_the_Sky
+
+robot-dreams.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:RobotDreams.jpg#/media/File:RobotDreams.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/8/87/RobotDreams.jpg
+  article: https://en.wikipedia.org/wiki/Robot_Dreams_(short_story)
+
+robot-visions.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:RobotVisions.jpg#/media/File:RobotVisions.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/8/8e/RobotVisions.jpg
+  # no article in wikipedia for robot visions short story. Link leads to collection.
+  article: https://en.wikipedia.org/wiki/Robot_Visions
+
+robots-and-empire =>
+  page-src: https://en.wikipedia.org/wiki/File:RobotsAndEmpire.jpg#/media/File:RobotsAndEmpire.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/e/ea/RobotsAndEmpire.jpg
+  article-src: https://en.wikipedia.org/wiki/Robots_and_Empire
+
+second-foundation.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:Second_foundation.jpg#/media/File:Second_foundation.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/8/8f/Second_foundation.jpg
+  article-src: https://en.wikipedia.org/wiki/Second_Foundation
+
+the-bicentennial-man.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:TheBicentennialMan.jpg#/media/File:TheBicentennialMan.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/9/9a/TheBicentennialMan.jpg
+  aticle: https://en.wikipedia.org/wiki/The_Bicentennial_Man
+
+the-caves-of-steel.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:The-caves-of-steel-doubleday-cover.jpg#/media/File:The-caves-of-steel-doubleday-cover.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/0/03/The-caves-of-steel-doubleday-cover.jpg
+  article: https://en.wikipedia.org/wiki/The_Caves_of_Steel
+
+the-complete-robot =>
+  page src: https://en.wikipedia.org/wiki/File:TheCompleteRobot.jpg#/media/File:TheCompleteRobot.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/6/6f/TheCompleteRobot.jpg
+  article: https://en.wikipedia.org/wiki/The_Complete_Robot
+
+the-early-asimov.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:TheEarlyAsimov.jpg#/media/File:TheEarlyAsimov.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/d/dd/TheEarlyAsimov.jpg
+  article: https://en.wikipedia.org/wiki/The_Early_Asimov
+
+the-positronic-man.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:The_Positronic_Man_(first_edition).jpg#/media/File:The_Positronic_Man_(first_edition).jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/c/c8/The_Positronic_Man_%28first_edition%29.jpg
+  article: https://en.wikipedia.org/wiki/The_Positronic_Man
+
+the-naked-son.jpg =>
+  page src: https://en.wikipedia.org/wiki/File:The-naked-sun-doubleday-cover.jpg#/media/File:The-naked-sun-doubleday-cover.jpg
+  img src: https://upload.wikimedia.org/wikipedia/en/e/e5/The-naked-sun-doubleday-cover.jpg
+  article: https://en.wikipedia.org/wiki/The_Naked_Sun
+
+the-stars-like-dust.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:Stars_like_dust.jpg#/media/File:Stars_like_dust.jpg
+  img-src: <p><a href="https://en.wikipedia.org/wiki/File:Stars_like_dust.jpg#/media/File:Stars_like_dust.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Stars_like_dust.jpg
+  article-src: https://en.wikipedia.org/wiki/The_Stars,_Like_Dust
+
+the-currents-of-space.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:Currents_of_space.jpg#/media/File:Currents_of_space.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/f/f0/Currents_of_space.jpg
+  article-src: https://en.wikipedia.org/wiki/The_Currents_of_Space
+
+the-robots-of-dawn.jpg =>
+  page-src: https://en.wikipedia.org/wiki/File:The-robots-of-dawn-doubleday-cover.jpg#/media/File:The-robots-of-dawn-doubleday-cover.jpg
+  img-src: https://upload.wikimedia.org/wikipedia/en/9/92/The-robots-of-dawn-doubleday-cover.jpg" alt="The-robots-of-dawn-doubleday-cover.jpg
+  article-src: https://en.wikipedia.org/wiki/The_Robots_of_Dawn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

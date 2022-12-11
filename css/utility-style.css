@@ -1,0 +1,113 @@
+/*utility styles*/
+.h-5 {
+  height: 5%;
+}
+.h-10 {
+  height: 10%;
+}
+.h-25 {
+  height: 25%;
+}
+.h-50 {
+  height: 50%;
+}
+.h-80 {
+  height: 80%;
+}
+.h-85 {
+  height: 85%;
+}
+.h-90 {
+  height: 90%;
+}
+.h-95 {
+  height: 95%;
+}
+.h-100 {
+  height: 100%;
+}
+.w-25 {
+  width: 25%;
+}
+.w-50 {
+  width: 50%;
+}
+.w-80 {
+  width: 80%;
+}
+.w-90 {
+  width: 90%;
+}
+.w-100 {
+  width: 100%;
+}
+.w-auto {
+  width: auto;
+}
+.top-50 {
+  top: 50%;
+}
+.pt-05{
+  padding-top: .5em;
+}
+.pt-1{
+  padding-top: 1em;
+}
+.pb-05{
+  padding-bottom: .5em;
+}
+.bg-primary {
+  background-color: var(--primary);
+}
+.bg-secondary {
+  background-color: var(--secondary);
+}
+.bg-light {
+  background-color: var(--light);
+}
+.bg-dark {
+  background-color: var(--dark);
+}
+.bg-highlight {
+  background-color: var(--highlight);
+}
+.text-primary {
+  color: var(--primary);
+}
+.text-secondary {
+  color: var(--secondary);
+}
+.text-light {
+  color: var(--light);
+}
+.text-dark {
+  color: var(--dark);
+}
+.text-highlight {
+  color: var(--highlight);
+}
+.text-white {
+  color: white;
+}
+.text-black {
+  color: var(--black);
+}
+.text-center {
+  text-align: center;
+}
+.position-relative {
+  position: relative;
+}
+.position-absolute {
+  position: absolute;
+}
+.v-align-center {
+  /* containing tag must be position: absolute */
+  /* top: 50%; */
+  transform: translateY(-50%);
+}
+.h-align-center {
+  /* containing tag must be position: absolute */
+  left: 1px;
+  right: 1px;
+}
